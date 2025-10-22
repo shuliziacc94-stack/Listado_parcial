@@ -14,6 +14,7 @@ namespace Listado_de_multiplicar_FE
         [STAThread]
         static void Main()
         {
+            //este es el archivo main 
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
